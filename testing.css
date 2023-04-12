@@ -12,7 +12,7 @@
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/addons/redesign/source.css);
-@import url(https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css);
+@import url(https://github.com/DiscordStyles/RadialStatus/blob/deploy/RadialStatus.theme.css);
 
 :root {
 	--accent-color: #1db954;

@@ -46,9 +46,9 @@
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
   
-  --dplus-foreground-color-hue-base: 100;
-  --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
+  --dplus-foreground-color-hue-base: 210; /* default: 210 */
+  --dplus-foreground-color-hue-links: 197; /* default: 197 */
+  --dplus-foreground-color-saturation-amount: 50; /* default: 1 */
   --dplus-foreground-color-lightness-amount: 1;
 
   --dplus-background-color-hue: 320;
